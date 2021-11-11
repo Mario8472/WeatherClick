@@ -1,7 +1,6 @@
 # WeatherClick
 Weather click (BME280) sensor with STM32F4
 
-Weather click - BME280 sensor 
 BME280 Temperature, Pressure and Humidity sensor
 PROJECT: Weather click
 MCU: STM32F407VGT
